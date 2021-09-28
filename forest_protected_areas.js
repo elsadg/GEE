@@ -1,5 +1,6 @@
 // Calculating forest cover change in protected areas in Scotland
-// Elsa Carla De Grandi
+// Source: CodingClub
+// Modified by Elsa
 // 26th Nov 2018
 
 // Visualise protected areas:
