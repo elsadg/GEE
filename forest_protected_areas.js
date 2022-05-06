@@ -65,10 +65,12 @@ collection: parks,
 scale: scale
 });
 
+// Export to Google Drive (forest loss)
 Export.table.toDrive({
 collection: statsLoss,
 description: 'NP_forest_loss'});
 
+// Export to Google Drive (forest gain)
 Export.table.toDrive({
 collection: statsGain,
 description: 'NP_forest_gain'});
